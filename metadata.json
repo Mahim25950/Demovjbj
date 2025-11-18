@@ -1,0 +1,5 @@
+{
+  "name": "OmniConvert AI",
+  "description": "A dual-mode unit converter featuring a robust manual conversion tool and an advanced AI-powered natural language processor for complex or unusual unit queries.",
+  "requestFramePermissions": []
+}
